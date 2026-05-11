@@ -1,4 +1,4 @@
-# 🐧 Linux Fundamentals for SOC Analysts
+# Linux Fundamentals for SOC Analysts
 
 > A structured learning hub for complete beginners learning Linux in a cybersecurity context.  
 > Built for aspiring SOC analysts every link points to a free, official resource.
