@@ -9,7 +9,7 @@
 
 Linux is the **most important operating system** for a SOC analyst to know.  
 Most servers, firewalls, SIEMs, and security tools run on Linux.  
-This repo guides you from zero — no experience needed.
+This repo guides you from zero no experience needed.
 
 ---
 
