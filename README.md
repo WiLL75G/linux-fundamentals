@@ -17,7 +17,7 @@ This repo guides you from zero no experience needed.
 
 **Step 1** — [Create a free TryHackMe account](https://tryhackme.com)  
 **Step 2** — [Start the Linux Fundamentals Path (free)](https://tryhackme.com/module/linux-fundamentals)  
-**Step 3** — Follow the [Course Navigation](./coursenavigation.md) below
+**Step 3** — Follow the [Course Navigation](./coursenavigation.md) **Step 3** — Follow the [Course Navigation](https://github.com/WiLL75G/linux-fundamentals/blob/main/coursenavigation.md) below
 
 ---
 
