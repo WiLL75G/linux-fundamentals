@@ -1,11 +1,11 @@
 # 🐧 Linux Fundamentals for SOC Analysts
 
 > A structured learning hub for complete beginners learning Linux in a cybersecurity context.  
-> Built for aspiring SOC analysts — every link points to a free, official resource.
+> Built for aspiring SOC analysts every link points to a free, official resource.
 
 ---
 
-## 👋 What Is This Repo?
+## What Is This Repo?
 
 Linux is the **most important operating system** for a SOC analyst to know.  
 Most servers, firewalls, SIEMs, and security tools run on Linux.  
@@ -13,7 +13,7 @@ This repo guides you from zero — no experience needed.
 
 ---
 
-## 🚀 Where To Start
+## Where To Start
 
 **Step 1** — [Create a free TryHackMe account](https://tryhackme.com)  
 **Step 2** — [Start the Linux Fundamentals Path (free)](https://tryhackme.com/module/linux-fundamentals)  
