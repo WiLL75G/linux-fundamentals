@@ -15,9 +15,9 @@ This repo guides you from zero no experience needed.
 
 ## Where To Start
 
-**Step 1** — [Create a free TryHackMe account](https://tryhackme.com)  
-**Step 2** — [Start the Linux Fundamentals Path (free)](https://tryhackme.com/module/linux-fundamentals)  
-**Step 3** — Follow the [Course Navigation](./coursenavigation.md) below 👇
+**Step 1** [Create a free TryHackMe account](https://tryhackme.com)  
+**Step 2** [Start the Linux Fundamentals Path (free)](https://tryhackme.com/module/linux-fundamentals)  
+**Step 3** Follow the [Course Navigation](./coursenavigation.md) below 👇
 
 
 
@@ -26,7 +26,7 @@ This repo guides you from zero no experience needed.
 
 ---
 
-## 📂 Repo Structure
+## Repo Structure
 
 ```
 linux-fundamentals/
@@ -37,7 +37,7 @@ linux-fundamentals/
 
 ---
 
-## 📋 Topics Covered
+## Topics Covered
 
 - What is Linux & Why Analysts Use It
 - Navigating the File System
@@ -52,7 +52,7 @@ linux-fundamentals/
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 This is a personal learning resource for educational purposes.  
 All linked content belongs to their respective platforms.
